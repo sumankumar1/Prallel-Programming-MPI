@@ -3,7 +3,7 @@
 compile:
 mpicc FILE_NAME -lm
 Run:
-mpirun -np #process ./Excecutable
+mpirun -np #process ./Executable
 
 Example
 mpicc jacobi.c -lm
