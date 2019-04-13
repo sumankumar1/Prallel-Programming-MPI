@@ -1,4 +1,4 @@
-# Prallel_Programming_MPI_OpenMP_C
+# Prallel Programming with MPI in C
 
 compile:
 mpicc FILE_NAME -lm
